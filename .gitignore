@@ -4,4 +4,4 @@ __pycache__/
 *.pyd
 test.py
 venv
-env
+.env
